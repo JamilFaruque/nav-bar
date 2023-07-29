@@ -189,10 +189,6 @@ nav h1 {
     color: var(--main-color);
     transition: 500ms;
   }
-  .nav-toggle i:hover{
-    transform: rotate(-90deg);
-  }
-
   .col-middle {
     display: none;
   }
